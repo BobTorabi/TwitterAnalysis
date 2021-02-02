@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SimpleNetNlp;
+using System;
+using System.Text.RegularExpressions;
 using Tweetinvi;
 using Tweetinvi.Events;
-using SimpleNetNlp;
-using System.Text.RegularExpressions;
 
 namespace SentimentAnalysisDemo
 {
